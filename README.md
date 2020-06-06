@@ -4,6 +4,7 @@ engage in solving computationally intensive problems.
 
 
 Main goals:
+
 Understand process execution: forking, executing, and reaping.
 Understand signal handling.
 Understand the use of "dup" to perform I/O redirection.
